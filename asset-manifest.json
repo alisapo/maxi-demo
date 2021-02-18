@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/maxi-demo/static/css/main.84857ab9.chunk.css",
+    "main.js": "/maxi-demo/static/js/main.ca22e947.chunk.js",
+    "main.js.map": "/maxi-demo/static/js/main.ca22e947.chunk.js.map",
+    "runtime-main.js": "/maxi-demo/static/js/runtime-main.cba6c14c.js",
+    "runtime-main.js.map": "/maxi-demo/static/js/runtime-main.cba6c14c.js.map",
+    "static/js/2.95df38d1.chunk.js": "/maxi-demo/static/js/2.95df38d1.chunk.js",
+    "static/js/2.95df38d1.chunk.js.map": "/maxi-demo/static/js/2.95df38d1.chunk.js.map",
+    "index.html": "/maxi-demo/index.html",
+    "static/css/main.84857ab9.chunk.css.map": "/maxi-demo/static/css/main.84857ab9.chunk.css.map",
+    "static/js/2.95df38d1.chunk.js.LICENSE.txt": "/maxi-demo/static/js/2.95df38d1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/maxi-demo/static/media/Roboto-Regular.03523cf5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cba6c14c.js",
+    "static/js/2.95df38d1.chunk.js",
+    "static/css/main.84857ab9.chunk.css",
+    "static/js/main.ca22e947.chunk.js"
+  ]
+}
